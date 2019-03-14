@@ -1,0 +1,25 @@
+.banner {
+  color: white;
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  background-image: cover;
+  text-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+}
+
+.banner p {
+  margin-bottom: 50px;
+}
+
+.btn {
+  color: white;
+  background-color: #4AF2A1;
+  border-radius: 20px;
+  padding:10px;
+}
+
+.btn:hover {
+  opacity: 0.8;
+  color: white;
+}
